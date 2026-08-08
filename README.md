@@ -3,5 +3,5 @@
 A privacy First Broswer
 
 newer Version 
-btter performance
+better performance
 bulit on react Native 
